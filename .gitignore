@@ -53,3 +53,4 @@ dkms.conf
 /packages
 /.vs
 .vs/
+/DisableStuffPlugin/bin/Debug
